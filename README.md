@@ -1,4 +1,7 @@
-<head>
-<h1 style="background-color:powderblue;"> Hello People!👋 </h1> </head>
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+<h1> Hello People!👋 </h1> 
 
-<p> My name is Abimbola Muritala. I am a Data Scientist </p 
+My name is Abimbola Muritala. I am a Data Scientist and Machine Learning Engineer.
